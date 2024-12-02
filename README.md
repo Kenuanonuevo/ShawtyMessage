@@ -51,7 +51,7 @@
 </head>
 <body>
     <div class="message-container">
-        <h1>Tangina mo, Shawty!</h1>
+        <h1>Itot!</h1>
         <h2>Kupal kaba boss?</h2>
         <div class="icon">
             <i class="fas fa-heart"></i>
